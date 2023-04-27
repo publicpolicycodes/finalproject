@@ -4,4 +4,4 @@ On October 27th, 2022, Elon Musk closed a $44 billion deal to purchase Twitter a
 
 Considering the significance of privacy and data, this paper aims to compare the privacy policies of Twitter and its alternative, Mastodon. The hypothesis for this paper is that Matsudon is a better social media platform than Twitter, therefore Mastodon must have a good if not a better privacy policy than Twitter. 
 
-Link to the project: https://github.com/publicpolicycodes/finalproject/blob/main/Is_Mastodon_Actually_Better_than_Twitter_.ipynb 
+Link to the project: https://github.com/publicpolicycodes/finalproject/blob/main/Is_Mastodon_Actually_Better_than_Twitter_FINAL.ipynb
